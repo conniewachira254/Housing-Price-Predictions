@@ -66,4 +66,4 @@ How can we accurately predict house prices using available property features?
 
 ## 👩🏽 Author
 Consolata Nyakio Wachira  
-Data Analyst | Python | SQL | Power BI
+Data Scientist | Python | SQL | Power BI
